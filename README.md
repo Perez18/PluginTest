@@ -1,9 +1,7 @@
 # Plugin Test
 
 ## Introduccion
-Es un plugin de ejemplo para practiar sobre creacion y los procedimiento de la misma
-para en un futuro implementarlo en produccion :D 
-
+Es un plugin de ejemplo para GlPI
 
 * Contribuccion  : Anthony Perez 🛠️
 
